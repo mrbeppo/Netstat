@@ -3,6 +3,7 @@ public class Netstat {
 
 int i=0;
 do {
+  //Ausgabe im Terminal  
   System.out.println("Do-Schleife Lauf: "+ i);
   i++;
     }
